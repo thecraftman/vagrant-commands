@@ -1,3 +1,3 @@
 # vagrant-commands
 
-## Wha
+## What
