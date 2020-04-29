@@ -1,3 +1,3 @@
 # vagrant-commands
 
-## What is vagra
+## What is vagran
