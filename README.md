@@ -2,4 +2,4 @@
 
 ## What is vagrant
  
- Vagrant i
+ Vagrant is
