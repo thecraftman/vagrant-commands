@@ -2,4 +2,4 @@
 
 ## What is vagrant
  
- Vagran
+ Vagra
