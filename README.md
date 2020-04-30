@@ -2,4 +2,4 @@
 
 ## What is vagrant
  
- Vagrant is a tool for working with virtual environme
+ Vagrant is a tool for working with virtual environmen
