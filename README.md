@@ -6,4 +6,4 @@
 
 Download vagrant [here](https://www.vagrantup.com/downloads.html)
 
-### Bel is a list of some Vagrants Commands that vagrant provides to make managing your virtual machines much simpler. 
+### Belo is a list of some Vagrants Commands that vagrant provides to make managing your virtual machines much simpler. 
