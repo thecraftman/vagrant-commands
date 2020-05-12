@@ -7,3 +7,5 @@
 Download vagrant [here](https://www.vagrantup.com/downloads.html)
 
 ### Below is a list of some Vagrants Commands that vagrant provides to make managing your virtual machines much simpler. 
+
+**- vagrant status**
