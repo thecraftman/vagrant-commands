@@ -6,4 +6,4 @@
 
 Download vagrant [here](https://www.vagrantup.com/downloads.html)
 
-### Below is a list of some Vagrants Commands that vagrant provides to make managing your virmachines much simpler. 
+### Below is a list of some Vagrants Commands that vagrant provides to make managing your virtmachines much simpler. 
