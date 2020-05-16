@@ -19,5 +19,5 @@ This command is applicable if you don't want to leave the machine running during
 
 **- Vagrant Up**
 
-This command gets your virtual machine up and running again
+This command gets your virtual machine up and running again.
 
