@@ -14,6 +14,6 @@ This command shows the current status of the virtual machine. It should currentl
 
 **- Vagrant Suspend**
 
-This command suspends the virtual machine. Most of 
+This command suspends the virtual machine. Most of the 
 
 
