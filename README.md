@@ -10,7 +10,7 @@ Download vagrant [here](https://www.vagrantup.com/downloads.html)
 
 **- Vagrant Status**
 
-This command shows you the current status of the virtual machine. It should currently read `default running (virtualbox)` along with some other information.
+This command shows the current status of the virtual machine. It should currently read `default running (virtualbox)` along with some other information.
 
 **- Vagrant Suspend**
 
