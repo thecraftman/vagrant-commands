@@ -19,5 +19,5 @@ This command is applicable if you don't want to leave the machine running during
 
 **- Vagrant Up**
 
- command gets your virtual machine up and running again.
+T command gets your virtual machine up and running again.
 
