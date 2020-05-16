@@ -15,5 +15,5 @@ This command shows the current status of the virtual machine. It should currentl
 **- Vagrant Suspend**
 
 This command suspends the virtual machine. Most of the work done is saved and the machine is put into a `sleep mode of sorts`. The machine state is saved and it’s very quick to stop and start the work done.
-This command is applicable if you don't want to leave the machine running during short breaks.
+This command is applicable if you don't want to leave the machine running during short breaks
 
