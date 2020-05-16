@@ -19,5 +19,5 @@ This command is applicable if you don't want to leave the machine running during
 
 **- Vagrant Up**
 
-Th command gets your virtual machine up and running again.
+Thi command gets your virtual machine up and running again.
 
