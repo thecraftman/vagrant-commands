@@ -1,4 +1,4 @@
-# vagrant-comman
+# vagrant-commands
 
 ## What is vagrant
  
