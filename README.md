@@ -26,3 +26,5 @@ This command gets the virtual machine up and running again.
 
 **- Vagrant ssh**
 
+
+
