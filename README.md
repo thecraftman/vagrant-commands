@@ -16,11 +16,16 @@ al machine. It should currently read `default running (virtualbox)` along with s
 **- Vagrant Suspend**
 
 This command suspends the virtual machine. Most of the work done is saved and the machine is put into a `sleep mode of sorts`. The machine state is saved and it’s very quick to stop and start the work done.
+<<<<<<< HEAD
 This command is applicable if you don't want to leave the machine running during short breaks.
   
+=======
+This command is applicable if you don't want to leave the machine running during short breaks. 
+
+>>>>>>> 10bc60a4a9cc30abd86527373661f6fd7c3b6fdf
 **- Vagrant Up**
 
-This command gets the virtual machine up and running again.
+This command gets the virtual machine up and running again. 
 
 **- Vag
 
