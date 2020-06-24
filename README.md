@@ -27,5 +27,5 @@ This command is applicable if you don't want to leave the machine running during
 
 This command gets the virtual machine up and running again. 
 
-**- Vag
+**- Vagr
 
