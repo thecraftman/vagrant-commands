@@ -26,7 +26,7 @@ This command gets the virtual machine up and running again.
 
 **- Vagrant ssh**
 
-This command will 
+This command will actually connect to and log you into your virtual machine.
 
 
 
