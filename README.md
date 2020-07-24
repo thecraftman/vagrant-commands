@@ -28,6 +28,6 @@ This command gets the virtual machine up and running again.
 
 This Command will actually connect to and log into the Virtual machine. Once this is implemented a few lines of text will be displayed showing various performance statistics of the virtual machine along with a new command line prompt that reads **vagrant@vagrant-ubuntu-trusty-64:~$**
 
-**- Vagrant
+**- Vagr
 
 
