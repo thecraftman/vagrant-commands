@@ -30,6 +30,6 @@ This Command will actually connect to and log into the Virtual machine. Once thi
 
 **- Vagrant halt** 
 
-This command halts the virtual machine. All the work done on it is saved and the machine is turned off.
+This command halts the virtual machine. Al the work done on it is saved and the machine is turned off.
 
 
