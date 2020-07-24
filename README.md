@@ -30,6 +30,6 @@ This Command will actually connect to and log into the Virtual machine. Once thi
 
 **- Vagrant halt** 
 
-This command halts the virtual
+This command halts the virtu
 
 
