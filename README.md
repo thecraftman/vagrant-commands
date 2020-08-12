@@ -30,6 +30,6 @@ This Command will actually connect to and log into the Virtual machine. Once thi
 
 **- Vagrant halt** 
 
-This command halts the virtual machine. All the wor done on it is saved and the machine is turned off. This acts more as `"turning the power off"`. It’s much slower to stop and start your virtual machine using this command, but it does free up all of your RAM once the machine has been stopped.
+This command halts the virtual machine. All the work done on it is saved and the machine is turned off. This acts more as `"turning the power off"`. It’s much slower to stop and start your virtual machine using this command, but it does free up all of your RAM once the machine has been stopped.
 
 
