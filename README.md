@@ -1,6 +1,6 @@
 | **Function Name** | **Description**    |
 |--------------|---------------------|
-|[base64_encode_tostring](## What is vagrant)||
+|[base64_encode_tostring](# What is vagrant)||
 
 # vagrant-commands
 
